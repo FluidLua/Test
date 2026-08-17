@@ -1,0 +1,227 @@
+{
+    "AxeSwamp": {
+        "SwingCooldown": 0.55,
+        "SpecialTrees": {
+            "GoldSwampy": {
+                "SwingCooldown": 0.35,
+                "Damage": 5.35
+            },
+            "GreenSwampy": {
+                "SwingCooldown": 0.46,
+                "Damage": 7
+            }
+        },
+        "Range": 9,
+        "Damage": 0.8
+    },
+    "ManyAxe": {
+        "SwingCooldown": 1.9,
+        "SpecialTrees": {},
+        "Range": 16,
+        "Damage": 10.2
+    },
+    "RustyAxe": {
+        "SwingCooldown": 0.4,
+        "SpecialTrees": {},
+        "Range": 10,
+        "Damage": 0.55
+    },
+    "AxeChicken": {
+        "SwingCooldown": 0.3,
+        "SpecialTrees": {},
+        "Range": 10,
+        "Damage": 0.9
+    },
+    "BasicHatchet": {
+        "SwingCooldown": 0.65,
+        "SpecialTrees": {},
+        "Range": 10,
+        "Damage": 0.2
+    },
+    "AxeAmber": {
+        "SwingCooldown": 1,
+        "SpecialTrees": {},
+        "Range": 9,
+        "Damage": 3.39
+    },
+    "MintAxe": {
+        "SwingCooldown": 5,
+        "SpecialTrees": {},
+        "Range": 1,
+        "Damage": 0.8
+    },
+    "CandyCaneAxe": {
+        "SwingCooldown": 0.7,
+        "SpecialTrees": {},
+        "Range": 6,
+        "Damage": 0
+    },
+    "IceAxe": {
+        "SwingCooldown": 0.4,
+        "SpecialTrees": {
+            "Frost": {
+                "SwingCooldown": 0.31,
+                "Damage": 6
+            }
+        },
+        "Range": 9.2,
+        "Damage": 0.36
+    },
+    "AxeBetaTesters": {
+        "SwingCooldown": 0.54,
+        "SpecialTrees": {},
+        "Range": 10,
+        "Damage": 1.45
+    },
+    "BluesteelAxe": {
+        "SwingCooldown": 0.8,
+        "SpecialTrees": {
+            "BlueSpruce": {
+                "SwingCooldown": 0.68,
+                "Damage": 12.1
+            }
+        },
+        "Range": 12,
+        "Damage": 2.8
+    },
+    "AxePig": {
+        "SwingCooldown": 0.5,
+        "SpecialTrees": {},
+        "Range": 10,
+        "Damage": 1.5
+    },
+    "AxePie": {
+        "SwingCooldown": 0.3,
+        "SpecialTrees": {
+            "Cherry": {
+                "SwingCooldown": 0.25,
+                "Damage": 1.9
+            }
+        },
+        "Range": 15.5,
+        "Damage": 0.95
+    },
+    "AxeAlphaTesters": {
+        "SwingCooldown": 0.5,
+        "SpecialTrees": {},
+        "Range": 10,
+        "Damage": 1.5
+    },
+    "SilverAxe": {
+        "SwingCooldown": 0.48,
+        "SpecialTrees": {},
+        "Range": 10,
+        "Damage": 1.6
+    },
+    "Axe1": {
+        "SwingCooldown": 0.73,
+        "SpecialTrees": {},
+        "Range": 10,
+        "Damage": 0.55
+    },
+    "EndTimesAxe": {
+        "SwingCooldown": 0.4,
+        "SpecialTrees": {
+            "LoneCave": {
+                "SwingCooldown": 0.3,
+                "Damage": 10000000
+            }
+        },
+        "Range": 9,
+        "Damage": 1.58
+    },
+    "GingerbreadAxe": {
+        "SwingCooldown": 0.5,
+        "SpecialTrees": {
+            "Koa": {
+                "SwingCooldown": 0.4,
+                "Damage": 11
+            },
+            "Walnut": {
+                "SwingCooldown": 0.4,
+                "Damage": 8.5
+            }
+        },
+        "Range": 32,
+        "Damage": 1.2
+    },
+    "FireAxe": {
+        "SwingCooldown": 0.55,
+        "SpecialTrees": {
+            "Volcano": {
+                "SwingCooldown": 0.35,
+                "Damage": 6.35
+            }
+        },
+        "Range": 9,
+        "Damage": 0.6
+    },
+    "Axe3": {
+        "SwingCooldown": 0.65,
+        "SpecialTrees": {},
+        "Range": 10,
+        "Damage": 1.45
+    },
+    "Axe2": {
+        "SwingCooldown": 0.7,
+        "SpecialTrees": {},
+        "Range": 10,
+        "Damage": 0.93
+    },
+    "AxeTwitter": {
+        "SwingCooldown": 0.4,
+        "SpecialTrees": {
+            "CaveCrawler": {
+                "SwingCooldown": 0.4,
+                "Damage": 3.9
+            },
+            "Volcano": {
+                "SwingCooldown": 0.4,
+                "Damage": 2.5
+            }
+        },
+        "Range": 16,
+        "Damage": 1.65
+    },
+    "CaveAxe": {
+        "SwingCooldown": 0.4,
+        "SpecialTrees": {
+            "CaveCrawler": {
+                "SwingCooldown": 0.22,
+                "Damage": 7.2
+            }
+        },
+        "Range": 10,
+        "Damage": 0.4
+    },
+    "CandyCornAxe": {
+        "SwingCooldown": 0.6,
+        "SpecialTrees": {},
+        "Range": 16,
+        "Damage": 1.75
+    },
+    "Rukiryaxe": {
+        "SwingCooldown": 0.4,
+        "SpecialTrees": {},
+        "Range": 9,
+        "Damage": 1.68
+    },
+    "InverseAxe": {
+        "SwingCooldown": 0.4,
+        "SpecialTrees": {},
+        "Range": 12,
+        "Damage": -1
+    },
+    "Beesaxe": {
+        "SwingCooldown": 0.5,
+        "SpecialTrees": {},
+        "Range": 13,
+        "Damage": 1.4
+    },
+    "RefinedAxe": {
+        "SwingCooldown": 0.6,
+        "SpecialTrees": {},
+        "Range": 13,
+        "Damage": 0
+    }
+}
